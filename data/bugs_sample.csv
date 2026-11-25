@@ -1,0 +1,13 @@
+title,severity
+App crash on login,critical
+Data loss when saving draft,critical
+Users can see other users' invoices,critical
+Payment fails silently,critical
+Login button broken,major
+Search timeout after 30 seconds,major
+Export to PDF fails,major
+Filters reset when changing page,major
+Typo in footer,minor
+Error message has a typo,minor
+Wrong icon color on settings page,minor
+Tooltip text cut off,minor
