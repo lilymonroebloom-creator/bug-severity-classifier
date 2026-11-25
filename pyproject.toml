@@ -7,7 +7,9 @@ authors = [
     { name = "lilymonroebloom-creator", email = "lily.monroe.bloom@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "pandas>=3.1.1",
+]
 
 [project.scripts]
 bug-severity-classifier = "bug_severity_classifier:main"
@@ -18,5 +20,6 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
+    "ipykernel>=7.4.0",
     "pytest>=9.2.0",
 ]
