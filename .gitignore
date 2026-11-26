@@ -10,3 +10,4 @@ wheels/
 .venv
 data/bugs_eclipse.csv
 data/bugs_eclipse.csv
+.DS_Store
