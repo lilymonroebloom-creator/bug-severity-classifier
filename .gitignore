@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+data/bugs_eclipse.csv
+data/bugs_eclipse.csv
